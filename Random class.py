@@ -9,4 +9,4 @@ class Random():
 
 if __name__ == "__main__":
     test = Random()
-    test.randomnumber(20, 1, 20)
+    test.randomnumber(20, 1, 100)
